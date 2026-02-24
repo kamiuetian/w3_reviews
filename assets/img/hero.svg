@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1350" viewBox="0 0 2400 1350" role="img" aria-label="3D speech bubble with Verified Ledger badge">
+  <defs>
+    <linearGradient id="g0" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070c"/>
+      <stop offset="1" stop-color="#0b1020"/>
+    </linearGradient>
+    <radialGradient id="goldGlow" cx="30%" cy="24%" r="70%">
+      <stop offset="0" stop-color="rgba(212,175,55,.26)"/>
+      <stop offset="0.55" stop-color="rgba(212,175,55,.08)"/>
+      <stop offset="1" stop-color="rgba(212,175,55,0)"/>
+    </radialGradient>
+    <radialGradient id="blueGlow" cx="80%" cy="18%" r="70%">
+      <stop offset="0" stop-color="rgba(255,255,255,.08)"/>
+      <stop offset="1" stop-color="rgba(120,180,255,0)"/>
+    </radialGradient>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="2400" height="1350" fill="url(#g0)"/>
+  <rect width="2400" height="1350" fill="url(#goldGlow)"/>
+  <rect width="2400" height="1350" fill="url(#blueGlow)"/>
+
+  <g opacity="0.8"><path d="M 2565.6 47.1 Q 1823.5 242.4 1067.2 377.8" stroke="rgba(243,210,122,0.106)" stroke-width="1.77" fill="none"/><path d="M 332.1 539.2 Q 1470.2 688.9 2387.5 646.6" stroke="rgba(243,210,122,0.074)" stroke-width="1.07" fill="none"/><path d="M 907.9 921.5 Q 1343.5 847.0 2217.9 1198.2" stroke="rgba(243,210,122,0.082)" stroke-width="1.59" fill="none"/><path d="M 2475.0 146.5 Q 932.2 448.8 -61.2 392.4" stroke="rgba(243,210,122,0.122)" stroke-width="1.65" fill="none"/><path d="M 734.4 396.6 Q 266.8 207.8 -130.4 412.8" stroke="rgba(243,210,122,0.088)" stroke-width="1.28" fill="none"/><path d="M 287.1 886.9 Q 1559.8 1262.5 2242.3 1420.1" stroke="rgba(243,210,122,0.123)" stroke-width="1.04" fill="none"/><path d="M 1679.1 255.7 Q 1109.3 439.0 573.7 542.6" stroke="rgba(243,210,122,0.085)" stroke-width="1.74" fill="none"/><path d="M -63.5 245.2 Q 376.8 611.0 549.1 688.6" stroke="rgba(243,210,122,0.095)" stroke-width="1.52" fill="none"/><path d="M 536.0 688.1 Q 677.0 359.7 1535.7 220.6" stroke="rgba(243,210,122,0.134)" stroke-width="2.10" fill="none"/><path d="M 2347.9 1129.4 Q 2222.7 1236.9 2090.3 1018.9" stroke="rgba(243,210,122,0.106)" stroke-width="1.53" fill="none"/><path d="M 2153.0 788.0 Q 2357.6 585.3 2333.3 670.8" stroke="rgba(243,210,122,0.088)" stroke-width="1.85" fill="none"/><path d="M 532.6 1397.7 Q 833.6 1028.7 1426.6 279.0" stroke="rgba(243,210,122,0.070)" stroke-width="2.08" fill="none"/><path d="M -81.0 1332.6 Q -171.6 1312.5 493.1 1077.8" stroke="rgba(243,210,122,0.089)" stroke-width="2.07" fill="none"/><path d="M 294.6 779.6 Q 426.4 856.3 760.4 574.1" stroke="rgba(243,210,122,0.062)" stroke-width="2.16" fill="none"/></g>
+  <g><circle cx="1079.8" cy="896.4" r="3.6" fill="rgba(212,175,55,0.059)"/><circle cx="707.3" cy="778.2" r="2.5" fill="rgba(212,175,55,0.110)"/><circle cx="624.8" cy="882.1" r="5.7" fill="rgba(212,175,55,0.130)"/><circle cx="2266.7" cy="764.7" r="3.0" fill="rgba(212,175,55,0.134)"/><circle cx="724.6" cy="711.7" r="4.8" fill="rgba(212,175,55,0.113)"/><circle cx="2173.7" cy="288.6" r="2.2" fill="rgba(212,175,55,0.113)"/><circle cx="2204.1" cy="1028.4" r="5.9" fill="rgba(212,175,55,0.115)"/><circle cx="357.3" cy="739.1" r="3.6" fill="rgba(212,175,55,0.082)"/><circle cx="582.5" cy="819.8" r="2.2" fill="rgba(212,175,55,0.089)"/><circle cx="364.2" cy="540.2" r="2.1" fill="rgba(212,175,55,0.112)"/><circle cx="968.4" cy="286.1" r="5.7" fill="rgba(212,175,55,0.077)"/><circle cx="1503.4" cy="495.7" r="5.6" fill="rgba(212,175,55,0.113)"/><circle cx="2204.1" cy="1271.7" r="5.4" fill="rgba(212,175,55,0.133)"/><circle cx="490.0" cy="8.2" r="4.2" fill="rgba(212,175,55,0.116)"/><circle cx="1639.2" cy="517.0" r="5.3" fill="rgba(212,175,55,0.102)"/><circle cx="2280.0" cy="132.8" r="3.3" fill="rgba(212,175,55,0.067)"/><circle cx="2279.7" cy="723.4" r="2.8" fill="rgba(212,175,55,0.109)"/><circle cx="2037.3" cy="1318.0" r="5.4" fill="rgba(212,175,55,0.091)"/><circle cx="1657.1" cy="208.4" r="4.8" fill="rgba(212,175,55,0.119)"/><circle cx="1478.7" cy="1185.8" r="3.1" fill="rgba(212,175,55,0.099)"/><circle cx="1033.2" cy="134.2" r="2.3" fill="rgba(212,175,55,0.118)"/><circle cx="550.8" cy="1139.2" r="3.7" fill="rgba(212,175,55,0.052)"/><circle cx="1521.0" cy="352.6" r="5.3" fill="rgba(212,175,55,0.089)"/><circle cx="1508.7" cy="506.2" r="2.2" fill="rgba(212,175,55,0.096)"/><circle cx="1620.6" cy="1254.7" r="2.7" fill="rgba(212,175,55,0.128)"/><circle cx="1590.6" cy="128.7" r="4.5" fill="rgba(212,175,55,0.111)"/><circle cx="1994.9" cy="1000.5" r="4.1" fill="rgba(212,175,55,0.054)"/><circle cx="511.6" cy="54.8" r="3.9" fill="rgba(212,175,55,0.058)"/><circle cx="1.3" cy="1255.0" r="4.8" fill="rgba(212,175,55,0.077)"/><circle cx="558.9" cy="440.3" r="4.1" fill="rgba(212,175,55,0.131)"/><circle cx="675.7" cy="1027.3" r="4.5" fill="rgba(212,175,55,0.103)"/><circle cx="876.0" cy="149.4" r="3.8" fill="rgba(212,175,55,0.126)"/><circle cx="1921.6" cy="897.1" r="5.6" fill="rgba(212,175,55,0.110)"/><circle cx="375.8" cy="1155.6" r="2.3" fill="rgba(212,175,55,0.126)"/><circle cx="636.5" cy="94.4" r="3.9" fill="rgba(212,175,55,0.092)"/><circle cx="2265.8" cy="680.5" r="4.5" fill="rgba(212,175,55,0.125)"/><circle cx="2175.6" cy="846.7" r="5.2" fill="rgba(212,175,55,0.098)"/><circle cx="2151.9" cy="8.0" r="3.0" fill="rgba(212,175,55,0.060)"/></g>
+
+  <g filter="url(#blur)" opacity="0.9">
+    <circle cx="1752.0" cy="621.0" r="210" fill="rgba(255,255,255,.04)"/>
+  </g>
+
+  <g><circle cx="1752.0" cy="621.0" r="160" fill="none" stroke="rgba(212,175,55,0.180)" stroke-width="1.2"/><circle cx="1752.0" cy="621.0" r="215" fill="none" stroke="rgba(212,175,55,0.150)" stroke-width="1.2"/><circle cx="1752.0" cy="621.0" r="270" fill="none" stroke="rgba(212,175,55,0.120)" stroke-width="1.2"/><circle cx="1752.0" cy="621.0" r="325" fill="none" stroke="rgba(212,175,55,0.090)" stroke-width="1.2"/></g>
+
+  <g>
+    <rect x="1562.0" y="555.0" width="380" height="132" rx="26" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.10)"/>
+    <text x="1752.0" y="613.0" text-anchor="middle" font-family="ui-sans-serif,system-ui" font-size="50" fill="rgba(245,247,255,.92)" letter-spacing="2">W3</text>
+    <text x="1752.0" y="655.0" text-anchor="middle" font-family="ui-sans-serif,system-ui" font-size="22" fill="rgba(245,247,255,.60)" letter-spacing="1">w3.reviews</text>
+  </g>
+
+  <g opacity="0.9">
+    <circle cx="432.0" cy="1053.0" r="280" fill="rgba(212,175,55,.06)"/>
+    <circle cx="432.0" cy="1053.0" r="279" fill="none" stroke="rgba(255,255,255,.06)"/>
+  </g>
+</svg>
